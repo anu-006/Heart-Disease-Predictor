@@ -1,5 +1,10 @@
+# Live Demo
+Check out the deployed app here: [Heart Disease Predictor](https://heart-disease-predictor-ap5blgmco6v3iushq5xyfd.streamlit.app/)
+
+
 # Heart-Disease-Predictor
 An interactive Streamlit application that predicts heart disease using machine learning models. Built as a hands‑on project to explore classification, model evaluation, and deployment.
+
 
 # Challenges I Faced
 Understanding medical dataset features without a biology background.
